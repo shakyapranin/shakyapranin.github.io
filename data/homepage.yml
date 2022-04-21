@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Praneen Shakya"
   subtitle: "#softwareengineer"
-  description: "Found software solutions fascinating in that they turn dreams into digital reality. Apart from engineering, Like to strike some strings for the lust of musical notes, deeply into sports and enthusiastic about art."
+  description: "I found software solutions fascinating in that they turn dreams into digital reality. Apart from engineering, I like to strike some strings for the lust of musical notes, deeply into sports and enthusiastic about art."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
